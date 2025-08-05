@@ -1,5 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to <s>Lumache's</s>Susan's documentation!
 ===================================
+
+stuff
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -16,7 +18,7 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
+.. toctree:: generated
 
-   usage
-   api
+#   usage
+#   api
