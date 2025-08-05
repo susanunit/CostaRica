@@ -1,17 +1,16 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to Susan & Charlie's beginning documentation for nuestros estudiantes ticos
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+So far i've learned my added susan.rst and susan.md files are NOT showing up in the nav.  
+Now to test if these edits go live.
 
 .. note::
 
-   This project is under active development.
+   I have two kittens.  
+
+.. note:: 
+
+   I don't know any rst, time to learn
+
 
 Contents
 --------
@@ -20,3 +19,4 @@ Contents
 
    usage
    api
+   susan
