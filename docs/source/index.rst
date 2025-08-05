@@ -1,7 +1,7 @@
 Welcome to <s>Lumache's</s>Susan's documentation!
 ===================================
 
-stuff
+08/05/2025 2:35 pm
 
 Welcome to Susan & Charlie's beginning documentation for nuestros estudiantes ticos
 
@@ -20,8 +20,9 @@ Now to test if these edits go live.
 Contents
 --------
 
-.. toctree:: generated
+.. toctree:: 
 
-#   usage
-#   api
-#   susan
+	index
+	susan
+	usage
+	api
