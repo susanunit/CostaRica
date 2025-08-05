@@ -1,12 +1,14 @@
-Welcome to <s>Lumache's</s>Susan's documentation!
-===================================
+Costa Rica Workshop August 2025
+===============================
 
-08/05/2025 2:35 pm
+08/05/2025 2:56 pm
 
 Welcome to Susan & Charlie's beginning documentation for nuestros estudiantes ticos
 
 So far i've learned my added susan.rst and susan.md files are NOT showing up in the nav.  
 Now to test if these edits go live.
+
+02:50 why doesn't 'susan.rst' file show up in left nav?
 
 .. note::
 
@@ -22,7 +24,3 @@ Contents
 
 .. toctree:: 
 
-	index
-	susan
-	usage
-	api
