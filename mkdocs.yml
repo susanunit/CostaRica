@@ -5,7 +5,7 @@ site_author: Susan Lindsey
 #repo_url: https://github.com/TACC/TACC-Docs
 
 theme:
-  name: tacc_readthedocs
+  name: readthedocs
   # "ReadTheDocs" Theme Features
   logo: /imgs/tacc-logo-with-words.svg
   # "TACC" Theme Features
@@ -29,16 +29,17 @@ markdown_extensions:
       permalink: "" # i.e. `true` but without "¶"
       permalink_class: headerlink fa fa-link
       permalink_title: Link to Heading
-  - pymdownx.blocks.admonition
-  - pymdownx.blocks.details
-  - pymdownx.blocks.html
-  - pymdownx.blocks.tab
-  - pymdownx.superfences
-  - pymdownx.inlinehilite
-  - pymdownx.saneheaders
+  # - pymdownx.blocks.admonition
+  # - pymdownx.blocks.details
+  # - pymdownx.blocks.html
+  # - pymdownx.blocks.tab
+  # - pymdownx.superfences
+  # - pymdownx.inlinehilite
+  # - pymdownx.saneheaders
 
 nav:
-	tessa.md
+  - tessa.md
+  - index.md
 
 
 plugins:
